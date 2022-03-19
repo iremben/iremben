@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Irem!
+<center> <h1> 👋 Hi, I’m Irem! </h1> </center>
  I’m interested in Data Analysis and Machine Learning. I’m currently learning tools for Data Analysis such as NumPy , Pandas and SQL.
 ### Skills
 Python - Pandas - NumPy - SQL - Java - Matplotlib - Seaborn
