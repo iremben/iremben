@@ -1,6 +1,8 @@
 <h1 align="center">  👋 Hi, I’m Irem! </h1>
 <p align="center">I’m interested in Data Analysis, Machine Learning and Automation Technologies. I’m currently learning tools for Data Analysis such as NumPy , Pandas and SQL. </p>
 <h3 align="center"> Skills </h3>
+
+<p>Languages: <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png" alt="english" width="10"/></p>
 <p align="center">Java - Pandas - NumPy - SQL - Python - Matplotlib - Seaborn </p>
 <h1 align="center"> Socials </h1>
 
