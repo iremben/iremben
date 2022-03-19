@@ -1,4 +1,4 @@
-<h1 style="text-align:center">  👋 Hi, I’m Irem! </h1>
+<h1 align="center">  👋 Hi, I’m Irem! </h1>
  I’m interested in Data Analysis and Machine Learning. I’m currently learning tools for Data Analysis such as NumPy , Pandas and SQL.
 <h3> Skills </h3>
 Python - Pandas - NumPy - SQL - Java - Matplotlib - Seaborn
