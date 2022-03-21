@@ -14,5 +14,5 @@
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iremben&label=Profile%20views&color=0e75b6&style=flat" alt=“iremben” /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iremben&show_icons=true&locale=en&layout=compact" alt=“iremben” /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iremben&show_icons=true&locale=en&layout=compact" alt="iremben" width="50%" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=iremben&layout=compact" alt="my commit status" width="50%" /> </p></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iremben&show_icons=true&locale=en" alt="iremben" width="50%" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=iremben" alt="my commit status" width="50%" /> </p></p>
 
