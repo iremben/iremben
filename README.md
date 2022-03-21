@@ -1,3 +1,5 @@
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=iremben&label=Profile%20views&color=0e75b6&style=flat" alt=“iremben” /></p>
 <h1 align="center">  👋 Hi, I’m Irem! </h1>
 <p align="center">I’m interested in Data Analysis, Machine Learning and Automation Technologies. I’m currently learning tools for Data Analysis such as NumPy , Pandas and SQL. </p>
 <h3 align="center"> Skills </h3>
@@ -12,7 +14,6 @@
 <hr>
   
   
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=iremben&label=Profile%20views&color=0e75b6&style=flat" alt=“iremben” /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iremben&show_icons=true&locale=en&layout=compact" alt=“iremben” /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iremben&show_icons=true&locale=en" alt="iremben" width="50%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=iremben" alt="my commit status" width="50%" /> </p>
 
