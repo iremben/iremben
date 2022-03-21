@@ -13,7 +13,7 @@
 <a href="https://www.datacamp.com/profile/iremben"><img src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/244/original/Profile_Picture__3_.jpg" alt="datacamp" width="100"/></a></p>
 <hr>
   
-  <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=iremben" alt="my commit status" width="50%" /> </p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iremben&show_icons=true&locale=en&layout=compact" alt=“iremben” /><img align="center" src="https://github-readme-stats.vercel.app/api?username=iremben&show_icons=true&locale=en" alt="iremben" /></p>
+  
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iremben&show_icons=true&locale=en&layout=compact" alt=“iremben” /></p><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iremben&show_icons=true&locale=en" alt="iremben" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=iremben" alt="my commit status" width="50%" /> </p>
 
 
