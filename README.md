@@ -16,6 +16,4 @@
   
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iremben&show_icons=true&locale=en&layout=compact" alt=“iremben” /></p><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iremben&show_icons=true&locale=en" alt="iremben" width="50%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=iremben" alt="my commit status" width="50%" /> </p>
 
-[![Playing Now](https://img.shields.io/badge/Spotify-Now_Playing-1ED760?&style=for-the-badge&logo=spotify&logoColor=1ED760)](https://open.spotify.com/user/rosen-iremcan)
 
-[![Spotify](https://playing-now-rosen-iremcan.vercel.app/api/spotify)](https://open.spotify.com/user/rosen-iremcan)
