@@ -18,4 +18,4 @@
 
 [![Playing Now](https://img.shields.io/badge/Spotify-Now_Playing-1ED760?&style=for-the-badge&logo=spotify&logoColor=1ED760)](https://open.spotify.com/user/rosen-iremcan)
 
-[![Spotify](https://playing-now-metastaban.vercel.app/api/spotify)](https://open.spotify.com/user/rosen-iremcan)
+[![Spotify](https://playing-now-rosen-iremcan.vercel.app/api/spotify)](https://open.spotify.com/user/rosen-iremcan)
