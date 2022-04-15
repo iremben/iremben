@@ -11,7 +11,7 @@
 
 <p align="center"><a href="https://www.linkedin.com/in/irem-gul-yildirim/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="linkedin" width="100"/></a>
 <a href="https://www.datacamp.com/profile/iremben"><img src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/244/original/Profile_Picture__3_.jpg" alt="datacamp" width="100"/></a></p>
-<hr>
+<h1><h1>
   
   
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iremben&show_icons=true&locale=en&layout=compact" alt=“iremben” /></p><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iremben&show_icons=true&locale=en" alt="iremben" width="50%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=iremben" alt="my commit status" width="50%" /> </p>
