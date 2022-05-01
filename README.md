@@ -16,3 +16,5 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iremben&show_icons=true&locale=en&layout=compact" alt=“iremben” /></p><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iremben&show_icons=true&locale=en" alt="iremben" width="50%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=iremben" alt="my commit status" width="50%" /> </p>
 
 
+<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="irem-gul-yildirim" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/irem-gul-yildirim?trk=profile-badge">Irem Gül Yildirim</a></div>
+              
