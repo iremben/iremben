@@ -1,4 +1,4 @@
-<>(Design from @iremben on GitHub)
+<!--- Design from @iremben on GitHub --->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iremben&label=Profile%20views&color=0e75b6&style=flat" alt=“iremben” /></p>
 <h1 align="center">  👋 Hi, I’m Irem! </h1>
 <p align="center">I’m interested in Data Analysis, Machine Learning and Automation Technologies. Currently learning tools for Data Analysis such as NumPy , Pandas and SQL. </p>
