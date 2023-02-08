@@ -6,7 +6,7 @@
 <!--- Design from @iremben on GitHub --->
 
 <p align="center">Languages: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/800px-Flag_of_Turkey.svg.png?20210808085121" alt="turkish" width="20"/> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png" alt="english" width="20"/> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/255px-Flag_of_Germany.svg.png" alt="german" width="20"/></p>
-<p align="center">Java - Python - Pandas - NumPy - SQL - Matplotlib - Seaborn - HTML - Markdown </p>
+<p align="center">Java - Python - Pandas - NumPy - MATLAB - C - C++ - SQL - Matplotlib - Seaborn - HTML - Markdown </p>
 <h1 align="center"> Socials </h1>
 
 
